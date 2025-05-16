@@ -1,0 +1,9 @@
+may 15, 2025 8:52:51 P. M. excepciones.PruebaLogger main
+INFORMACIÓN: Se inicio el programa
+may 15, 2025 8:52:51 P. M. excepciones.PruebaLogger main
+ADVERTENCIA: ADvertencia, quedo una conexion a BD abierta
+may 15, 2025 8:52:51 P. M. excepciones.PruebaLogger main
+GRAVE: Error, paso algo
+may 15, 2025 8:57:53 P. M. excepciones.PruebaCriculo main
+ADVERTENCIA: El radio es invalido: -1.0
+15/05/2025 21:08:28 [WARNING] El radio es invalido: -1.0
