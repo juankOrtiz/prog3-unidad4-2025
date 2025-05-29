@@ -2,11 +2,12 @@ package colecciones;
 
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
 
 public class PruebaListas {
     public static void main(String[] args) {
         int numero = 0;
-        ArrayList<Integer> lista = new ArrayList<>();
+        List<Integer> lista = new ArrayList<>();
         // Agregar items a la lista
         lista.add(1);
         lista.add(2);
